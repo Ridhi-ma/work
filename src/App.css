@@ -1,0 +1,28 @@
+.a {
+  float: left;
+  padding: 9px;
+  margin-top: 8px;
+  margin-left: 250px;
+  border: none;
+  font-size: 17px;
+  width: 400px;
+}
+#drop {
+  float: center;
+  padding: 9px;
+  margin-top: 8px;
+  margin-left: 100px;
+  border: none;
+  font-size: 17px;
+  width: 200px;
+}
+.b {
+  padding: 9px;
+  margin-top: 8px;
+  margin-left: 80px;
+  border: none;
+  font-size: 17px;
+  width: 200px;
+  background-color: aqua;
+  border-radius: 12px;
+}
